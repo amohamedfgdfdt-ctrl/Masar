@@ -30,4 +30,4 @@ A personal productivity web app in Arabic (RTL) that brings daily tasks, prayer 
 3. Open `http://localhost:3000` in your browser.
 
 ## Author
-**Tacliz** · [GitHub](https://github.com/amohamedfgdfdt-ctrl)
+**Idris** · [GitHub](https://github.com/amohamedfgdfdt-ctrl)
